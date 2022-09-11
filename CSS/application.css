@@ -1,0 +1,44 @@
+input {
+	height: 5vh;
+	width : 20vw;
+	border-radius: 5px;
+	border: 1.5px solid lightsteelblue;
+	margin-bottom: 2%;
+}
+
+button {
+	height: 5vh;
+	width : 15vw;
+	border-radius: 2px;
+	border: 2px solid black;
+	margin-bottom: 2%;
+}
+
+button:hover {
+	background-color: #056BB3;
+}
+
+.invalid_class {
+	border-color : red
+}
+
+.navButton {
+	margin-left: 25%;
+	text-align: right;
+}
+
+.logoKali {
+
+	height: 10vh; width: 19.8%;
+}
+
+table {
+	text-align: center;
+}
+
+select {
+	height: 4vh;
+	width : 10vw;
+	border-radius: 3px;
+	border: 1.5px solid lightsteelblue;
+}
